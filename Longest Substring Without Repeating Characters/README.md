@@ -1,1 +1,1 @@
-![Status](../img/2.png)
+![Status](../img/3.png)

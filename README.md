@@ -1,5 +1,5 @@
-# LeetCode_algotithm
+# Algorithm-Exercises
 
 ---
 
-Notes of solution and thinking towards algorithm exercise in leetcode.
+Classification by algorithm.
